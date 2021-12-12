@@ -7,11 +7,13 @@ Starts cmd in a small window in order to grabs less attention
 Starts cmd in a small window but also hides the cmd by scrolling it down the screen method defined in hak5darren's rubberducky wiki Payload hide cmd window
 
 ***Tested on:***
+
 OS: Windows 10 Pro
 User: Admin Priviliged
 Hardware: ATtiny85 
 
 **Requirements:**
+
 Arduino IDE: https://www.arduino.cc/en/software To run the code
 ![image](https://user-images.githubusercontent.com/37224519/145717418-bbe228bc-2921-4630-bd50-9aabf48d9f24.png)
 
@@ -26,9 +28,12 @@ File > Preferences
 ![image](https://user-images.githubusercontent.com/37224519/145717655-a42a16ff-1f13-4be5-9d85-5f0f83798859.png)
 
 - Then go to Tools > Board > Board Manager and install **digispark** board manager
-- ![image](https://user-images.githubusercontent.com/37224519/145717712-e6ce7c74-3100-43c0-bd88-0c7d1987d955.png)
+
+![image](https://user-images.githubusercontent.com/37224519/145717712-e6ce7c74-3100-43c0-bd88-0c7d1987d955.png)
+
 
 ![image](https://user-images.githubusercontent.com/37224519/145717790-4eb30c75-c3d1-4e91-8f5a-18989e445647.png)
+
 
 - Once that is install you can check the code by clickin on ![image](https://user-images.githubusercontent.com/37224519/145717867-a3db46c5-d73f-4d9d-81d1-aa99827880c2.png)
 button
@@ -49,6 +54,6 @@ Password Grabber: https://webhook.site/ or any other request reflector of your c
 
 ![image](https://user-images.githubusercontent.com/37224519/145718167-d56168ee-c9ea-49e0-be0b-bc04b94e8e43.png)
 
-** You will need Internet Access to execute it
+**You will need Internet Access to execute it**
 
 
