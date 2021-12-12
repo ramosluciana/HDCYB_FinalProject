@@ -1,0 +1,1 @@
+Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace<102><96>Key.backspaceKey.backspace<99><96>Key.delete
