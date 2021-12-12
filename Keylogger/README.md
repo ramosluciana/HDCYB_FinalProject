@@ -42,7 +42,7 @@ After installing all packages, enter the email and password you would like the l
 
 Also, enter the file path you want your log files to be saved to
 
-![image](https://user-images.githubusercontent.com/37224519/145716563-f1113def-d31d-43b6-a6e7-bc3564dfe899.png)
+![image](https://user-images.githubusercontent.com/37224519/145716638-dd5bea45-9ae2-4598-9cd7-e5b92069c1ec.png)
 
 Once all packages are installed and all the path and email information have been entered you can just run your code.
 
